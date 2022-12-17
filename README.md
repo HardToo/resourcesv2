@@ -1,4 +1,7 @@
-# Scraper Free
+# Data for danzzapi.xyz
+
+## Example
+<a href="https://danzzapi.xyz">danzzapi.xyz</a>
 
 ## List Api
 
