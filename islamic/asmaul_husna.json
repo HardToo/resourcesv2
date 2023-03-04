@@ -1,4 +1,5 @@
-{
+[
+    {
       "number": "1",
       "latin": "Ar Rahman",
       "arab": "الرَّحْمَنُ",
@@ -691,3 +692,4 @@
       "translate_id": "Yang Memiliki Mutlak sifat Maha Sabar",
       "translate_en": "The Patient"
     }
+]
